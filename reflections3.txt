@@ -1,0 +1,3 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+In order to know what you have.
+Probably you don't want to pull changes made by other people, want to check them first(?)
