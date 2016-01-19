@@ -7,4 +7,7 @@ Fork: to make my own "copy" of a repository in GitHub.
 Clone: make a copy in local repository
 Branch: make a branch on existing "project"
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+One can work off-line and later sync the local and remote stuff.
+
 
